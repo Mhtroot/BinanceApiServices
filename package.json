@@ -1,0 +1,23 @@
+{
+  "name": "binanceapiservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.0.4",
+    "@types/ws": "^8.18.1",
+    "axios": "^1.10.0",
+    "dotenv": "^16.6.0",
+    "express": "^5.1.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.8.3",
+    "ws": "^8.18.2"
+  }
+}
